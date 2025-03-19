@@ -1,0 +1,20 @@
+{
+    "infinityleads🥳_convertido.csv": {
+        "fecha_procesado": "2025-03-17T22:59:40.640946",
+        "ruta_original": "9600\\infinityleads🥳_convertido.csv",
+        "ruta_procesada": "9600\\infinityleads🥳_convertido.csv",
+        "total_procesados": 0
+    },
+    "infinityleads🥳.xlsx": {
+        "fecha_procesado": "2025-03-17T22:59:41.319907",
+        "ruta_original": "9600\\infinityleads🥳.xlsx",
+        "ruta_procesada": "resultados_monitor\\procesados\\infinityleads🥳_convertido.csv",
+        "total_procesados": 0
+    },
+    "infinityleads_convertido.csv": {
+        "fecha_procesado": "2025-03-17T23:24:52.120622",
+        "ruta_original": "9600\\infinityleads_convertido.csv",
+        "ruta_procesada": "9600\\infinityleads_convertido.csv",
+        "total_procesados": 0
+    }
+}

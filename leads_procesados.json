@@ -1,0 +1,16 @@
+{
+    "\u2b509600 Leads\ud83e\udd16.csv": {
+        "fecha_procesado": "2025-03-17T22:42:15.666106",
+        "ruta": "9600\\\u2b509600 Leads\ud83e\udd16.csv"
+    },
+    "infinityleads\ud83e\udd73.xlsx": {
+        "fecha_procesado": "2025-03-17T22:54:53.807802",
+        "ruta": "9600\\infinityleads\ud83e\udd73.xlsx",
+        "ruta_csv": "9600\\infinityleads\ud83e\udd73_convertido.csv"
+    },
+    "infinityleads\ud83e\udd73_convertido.csv": {
+        "fecha_procesado": "2025-03-17T22:54:53.817981",
+        "ruta": "9600\\infinityleads\ud83e\udd73_convertido.csv",
+        "ruta_csv": "9600\\infinityleads\ud83e\udd73_convertido.csv"
+    }
+}
